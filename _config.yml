@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+title: "Kim Yong Uk Portfolio"
+name: "Kim Yong Uk" # 블로그 제목
+description: "Portfolio & Project"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl: ""
